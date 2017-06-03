@@ -1,0 +1,14 @@
+/*page footer*/
+
+.footer {
+    
+    bottom: 0px;
+    padding-top: 19px;
+    color: #777;
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
+ body{
+            background-image: url(w1.jpg);
+             }
